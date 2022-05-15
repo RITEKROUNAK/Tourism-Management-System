@@ -37,7 +37,7 @@ label{
 }
 /*-- top-header --*/
 .logo a {
-    color: #3F84B1;
+    color: red;
     letter-spacing: 1px;
     font-size: 2em;
     font-weight: 400;
@@ -52,7 +52,7 @@ i.fa.fa-home {
     font-size: 24px;
 }
 .top-header {
-    background-color: #3F84B1;
+    background-color: red;
     border-bottom: 0 none;
 	height: 36px;
     line-height: 35px;
@@ -107,7 +107,7 @@ li.ned,li.wrt,li.tol{
 	padding-top: 17px;
 }
 .bus a {
-    color: #1f8dd6;
+    color: red;
     font-weight: 600;
     font-size: 14px;
     letter-spacing: .05em;
@@ -118,7 +118,7 @@ li.ned,li.wrt,li.tol{
     margin-top: 7px;
 }
 .securetxt {
-    color: #1f8dd6;
+    color: red;
     line-height: 18px;
     margin-top: 0px;
 	font-size: 14px;
@@ -128,7 +128,7 @@ li.ned,li.wrt,li.tol{
     display: inline-block;
 }
 i.fa.fa-lock {
-    color:#1f8dd6;
+    color:red;
     font-size: 2em;
     padding-right: 10px;
 }
@@ -221,7 +221,7 @@ button.seabtn {
     background-position: 96% center;
 } 
 button.seabtn:focus,button.seabtn:hover{
-    background-color:#1f8dd6;
+    background-color:red;
     outline: 0;
 }
 .sear {
@@ -236,7 +236,7 @@ button.seabtn:focus,button.seabtn:hover{
 }
 i.fa.fa-columns {
     font-size: 9em;
-    color: #1f8dd6;
+    color: red;
 }
 /*-- /banner --*/
 /*-- rupes --*/
@@ -255,15 +255,15 @@ i.fa.fa-columns {
 }
 i.fa.fa-usd{
     font-size: 5em;
-    color: #1f8dd6;
+    color: red;
 }
 i.fa.fa-h-square{
     font-size: 5em;
-    color: #1f8dd6;
+    color: red;
 }
 i.fa.fa-mobile  {
     font-size:5em;
-    color: #1f8dd6;
+    color: red;
 }
 .rupes h3 {
     font-size: 20px;
@@ -304,7 +304,7 @@ a.learn{
     display: inline-block;
 }
 a.learn:focus,a.learn:hover {
-    background-color: #1f8dd6;
+    background-color: red;
     outline: 0;
 }
 .track {
@@ -352,7 +352,7 @@ i.fa.fa-map-marker {
 }
 i.fa.fa-truck,i.fa.fa-user,i.fa.fa-ticket {
     font-size: 4em;
-	color:#1f8dd6;
+	color:red;
 }
 .routes h3 {
     font-size: 2em;
@@ -394,7 +394,7 @@ i.fa.fa-truck,i.fa.fa-user,i.fa.fa-ticket {
     display: inline-block;
 }
 .footer-left li a:hover{
-    color:#1f8dd6;
+    color:red;
 }
 .footer-top h3 {
     font-size: 1.7em;
@@ -613,7 +613,7 @@ ul.first {
 .about h5 {
     font-size: 1.1em;
     text-align:right;
-    color: #1f8dd6;
+    color: red;
 }
 .about h6 {
     font-size: 1em;
@@ -660,7 +660,7 @@ ul.first {
     float: left;
 }
 ul.rout {
-    background: #1f8dd6;
+    background: red;
     padding: 0.8em;
     color: #fff;
 }
@@ -747,7 +747,7 @@ a.off{
 	background:#34ad00;
 }
 a.off:hover{
-	background:#1f8dd6;
+	background:red;
 }
 .offers-1-left {
     padding: 2em;
@@ -759,7 +759,7 @@ a.off:hover{
 }
 i.fa.fa-gift{
 	font-size: 5em;
-    color: #1f8dd6;
+    color: red;
 }
 /*-- /offers-1 --*/
 /*-- hotels --*/
@@ -929,7 +929,7 @@ i.fa.fa-gift{
 }
 .terms h6 {
     font-size: 1.2em;
-    color: #1f8dd6;
+    color: red;
     font-weight: 700;
     margin: 1em 0;
 }
@@ -986,7 +986,7 @@ a.regist {
     display: inline-block;
 }
 a.regist:hover{
-	background-color:#1f8dd6;
+	background-color:red;
 }
 .agent-left textarea {
     width: 80%;
@@ -1016,7 +1016,7 @@ a.regist:hover{
     border-radius: 2px;
 }
 .agent-left input[type="submit"]:hover{
-    background: #1f8dd6;
+    background: red;
 }
 .sub {
     text-align: right;
@@ -1059,7 +1059,7 @@ select {
 }
 .contact h4 {
     font-size: 1.4em;
-    color: #1f8dd6;
+    color: red;
     margin-bottom:0.6em;
     font-weight: 700;
 }
@@ -1082,7 +1082,7 @@ select {
     color: #999;
 }
 span.glyphicon.glyphicon-eye-open, span.glyphicon.glyphicon-thumbs-up {
-    color: #1f8dd6;
+    color: red;
     font-size: 1.1em;
     padding-right: 6px;
 }
@@ -1095,7 +1095,7 @@ span.glyphicon.glyphicon-eye-open, span.glyphicon.glyphicon-thumbs-up {
 .details-top h5 {
     font-size: 1.4em;
     font-weight: 700;
-    color: #1f8dd6;
+    color: red;
 }
 .details-top {
     margin-top: 2em;
@@ -1447,7 +1447,7 @@ button.subbtn {
     background-position: 96% center;
 }
 button.subbtn:focus, button.subbtn:hover {
-    background-color: #1f8dd6;
+    background-color: red;
     outline: 0;
 }
 /*-- /write --*/
@@ -1542,7 +1542,7 @@ button.subbtn:focus, button.subbtn:hover {
  margin-top:20px;
 }
 .login-right input[type="submit"]:hover {
-	background:#3F84B1;
+	background:red;
 }
 .login-grids p {
     font-size: 12px;
@@ -1664,7 +1664,7 @@ button.subbtn:focus, button.subbtn:hover {
     line-height: 35px;
 }
 .app-right h3 span {
-	color:#3F84B1;
+	color:red;
 	margin:0 7px;
 }
 .app-right p {
@@ -1722,7 +1722,7 @@ button.subbtn:focus, button.subbtn:hover {
   line-height: 1.8em;
 }
 .services-icon {
-  background: #3F84B1;
+  background: red;
   width: 120px;
   height: 120px;
   line-height: 136px;
@@ -1780,7 +1780,7 @@ ul.callbacks_tabs.callbacks2_tabs {
 	color:#4CB320;
 }
 .comments-list h3 a:hover{
-	color:#3F84B1;
+	color:red;
 }
 .comments-list ul{
 	padding:1.5em 0 2em; 
@@ -1796,7 +1796,7 @@ ul.callbacks_tabs.callbacks2_tabs {
 }
 .comments-list ul li span {
     padding-right: 10px;
-    color: #1f8dd6;
+    color: red;
 }
 .comments-list ul li a:hover{
 	color:#4CB320;
@@ -1829,7 +1829,7 @@ ul.paging{
 }
 .popular h3, .subscribe h3, .categories h3, .instagram h2, .tags h3 {
     padding: 1em;
-    background: #3F84B1;
+    background: red;
     color: #fff;
     font-size: 1.5em;
     text-align: center;
@@ -1850,7 +1850,7 @@ ul.paging{
 }
 .popular-right h5 a{
 	font-size:1.5em;
-	color:#3F84B1;
+	color:red;
 	text-decoration:none;
 	text-transform:capitalize;
 }
@@ -1901,7 +1901,7 @@ ul.paging{
 	width:100%;
 }
 .subscribe input[type="submit"]:hover{
-	background:#3F84B1;
+	background:red;
 }
 .categories ul li{
 	padding-left: 2em;
@@ -1930,10 +1930,10 @@ ul.paging{
 	margin: 0 0px 9px;
 }
 .tags ul li a {
-    border: 1px solid #3F84B1;
+    border: 1px solid red;
     padding: 3px 12px;
     font-size: 14px;
-    color: #3F84B1;
+    color: red;
     text-decoration: none;
 }
 .recent-comments h3 {
@@ -1989,7 +1989,7 @@ ul.paging{
 }
 .recent-comments-grid-right h4 a {
     font-size: 1em;
-    color: #3F84B1;
+    color: red;
     text-decoration: none;
 }
 .recent-comments-grid-right h4 a:hover{
@@ -2058,7 +2058,7 @@ ul.paging{
 	text-align:center;
 }
 .leave-comment input[type="submit"]:hover{
-	background:#3F84B1;
+	background:red;
 }
 /*-- //single1 --*/
 .footer-social-icons ul li {
@@ -2081,7 +2081,7 @@ ul.paging{
     padding: 5px;
     font-size: 14px;
     border-radius: 2px;
-    background:#1F8DD6;
+    background:red;
     visibility: hidden;
     opacity: 0;
     -o-transition: all .5s cubic-bezier(0.68, -0.55, 0.265, 1.55);
@@ -2095,7 +2095,7 @@ ul.paging{
     height: 0;
     border-left: 5px solid transparent;
     border-right: 5px solid transparent;
-    border-top: 5px solid #1F8DD6;
+    border-top: 5px solid red;
     position: absolute;
     bottom: -5px;
     left: 34px;
@@ -2197,7 +2197,7 @@ ul.paging{
 	text-decoration:none;
 	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
 	font-size:22px;
-	color:#3F84B1;
+	color:red;
 	opacity: 1;
 	}
 
